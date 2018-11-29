@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PostMVVM</string>
+    <string name="post_error">Error occure during retrive data</string>
+    <string name="retry">Retry</string>
+</resources>
